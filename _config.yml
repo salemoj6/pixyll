@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
+title:       My Github Page
+email:       jsalemo252@gmail.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "https://pixyll.com"
+description: "Mini-project for Web Programming"
+baseurl:     "/salemoj6.github.io"
+url:         "https://github-salemoj6.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -115,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     3
 sass:
   style: compressed
 plugins:
